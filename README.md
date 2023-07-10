@@ -1,11 +1,10 @@
 ## Hi, I'm Cameron
 
 ### Computer Engineering Student @ University Of Guelph 
-<br>
-- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display 
-<br>
-- 💬 Ask me about my Other Projects 
-<br>
+- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
+
+- 💬 Ask me about my Other Projects
+  
 - 📫 Reach out to me at: cbauma05@uoguelph.ca <br>
 
 <!--
