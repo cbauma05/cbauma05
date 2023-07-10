@@ -2,15 +2,15 @@
 
 - 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
 - 💬 Ask me about my Other Projects
-- 
+- 📫 Reach out to me at: cbauma05@uoguelph.ca
 
 <!--
 **cbauma05/cbauma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
-- 🌱 I’m currently learning 
+- 🔭 I'm currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
