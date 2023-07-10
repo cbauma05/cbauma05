@@ -1,4 +1,4 @@
-### Hi there 👋
+###              Computer Engineering Student At University Of Guelph
 
 - 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
 - 💬 Ask me about my Other Projects
