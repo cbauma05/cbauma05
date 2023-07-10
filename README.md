@@ -1,8 +1,12 @@
-###              Computer Engineering Student At University Of Guelph
+## Hi, I'm Cameron
 
-- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
-- 💬 Ask me about my Other Projects
-- 📫 Reach out to me at: cbauma05@uoguelph.ca
+### Computer Engineering Student @ University Of Guelph 
+<br>
+- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display 
+<br>
+- 💬 Ask me about my Other Projects 
+<br>
+- 📫 Reach out to me at: cbauma05@uoguelph.ca <br>
 
 <!--
 **cbauma05/cbauma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
