@@ -7,7 +7,13 @@
 
 - 💬 Ask me about my Other Projects
   
-- 📫 Reach out to me at: cbauma05@uoguelph.ca <br>
+- 📫 Reach out to me at: cbauma05@uoguelph.ca <be>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/cambauman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cameron-bauman" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **cbauma05/cbauma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
