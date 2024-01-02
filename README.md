@@ -1,7 +1,9 @@
 ## Hi, I'm Cameron
 
 ### Computer Engineering Student @ University Of Guelph 
-- 🔭 Currently working on a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
+- 🌱 Currently improving skills in VHDL
+
+- 🔭 Recently finished building a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
 
 - 💬 Ask me about my Other Projects
   
