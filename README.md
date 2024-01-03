@@ -1,6 +1,6 @@
 ## Hi, I'm Cameron
 
-### Computer Engineering Student @ University Of Guelph 
+### Systems Engineering and Computing @ University Of Guelph 
 - 🌱 Currently improving skills in VHDL
 
 - 🔭 Recently finished building a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
