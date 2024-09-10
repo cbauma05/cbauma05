@@ -3,7 +3,7 @@
 ### Systems Engineering and Computing @ University Of Guelph 
 - 🌱 Currently improving skills in VHDL
 
-- 🔭 Recently finished building a Wireless Gesture Controlled Robotic Hand Project with an Interactive Display
+- 🔭 Recently finished building a Wireless Quadruped Robot Dog with dynamic motion control and live streaming footage capabilities.
 
 - 💬 Ask me about my Other Projects
   
