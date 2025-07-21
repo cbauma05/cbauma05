@@ -1,7 +1,7 @@
 ## Hi, I'm Cameron
 
 ### Systems Engineering and Computing @ University Of Guelph 
-- 🌱 Currently improving skills in VHDL
+- 🌱 Currently improving skills in ROS2 Development
 
 - 🔭 Recently finished building a Wireless Quadruped Robot Dog with dynamic motion control and live streaming footage capabilities.
 
