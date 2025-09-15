@@ -1,9 +1,9 @@
 ## Hi, I'm Cameron
 
-### Systems Engineering and Computing @ University Of Guelph 
-- 🌱 Currently improving skills in ROS2 Development
+### 4th Year Systems Engineering and Computing @ University Of Guelph 
+- 🔭 Looking for S25 Internships!
 
-- 🔭 Recently finished building a Wireless Quadruped Robot Dog with dynamic motion control and live streaming footage capabilities.
+- 🌱 Recently finished building a Wireless Quadruped Robot Dog with dynamic motion control and live streaming footage capabilities.
 
 - 💬 Ask me about my Other Projects
   
