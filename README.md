@@ -1,7 +1,8 @@
 ## Hi, I'm Cameron
 
 ### 4th Year Systems Engineering and Computing @ University Of Guelph 
-- 🔭 Looking for S25 Internships!
+### Electrode Controls Development Engineer @ Tesla
+- 🔭 Looking for full-time Robotics, Hardware, and Mechatronics Engineering roles - 2027!
 
 - 🌱 Recently finished building a Wireless Quadruped Robot Dog with dynamic motion control and live streaming footage capabilities.
 
